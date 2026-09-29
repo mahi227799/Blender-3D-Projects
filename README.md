@@ -1,98 +1,49 @@
-**# Blender 3D Projects**
+# Blender 3D Projects
 
+A collection of my 3D modeling and rendering projects created using Blender.
 
+## Gallery
 
-**A collection of my 3D modeling and rendering projects created using Blender.**
+### Sofa Set
+![Sofa Set](renders/sofaset.png)
 
+### Gigantic Space Station
+![Gigantic Space Station](renders/gigantic_spacestation.png)
 
+### Watch
+![Watch](renders/watch.png)
 
-**## Gallery**
+### Mirror Reflection
+![Mirror Reflection](renders/mirror_reflection.jpg)
 
+### Coffee Mug
+![Coffee Mug](renders/coffee_mug.png)
 
+### Earth Surface
+![Earth Surface](renders/earth_surface.png)
 
-**### Sofa Set**
+### Cosmic Nebula
+![Cosmic Nebula](renders/cosmic_nebula.png)
 
-**!\[Sofa Set](renders/sofaset.png)**
+### Perfume Mockup
+![Perfume Mockup](renders/perfume_mockup.png)
 
+### Glowing Logo
+![Glowing Logo](renders/glowing_logo.png)
 
+### Cozy Bed
+![Cozy Bed](renders/cozy_bed.jpg)
 
-**### Gigantic Space Station**
+## Tools Used
 
-**!\[Gigantic Space Station](renders/gigantic\_spacestation.png)**
+- Blender
+- 3D Modeling
+- Materials and Texturing
+- Lighting
+- Rendering
+- Product Visualization
+- Environment Design
 
+## Author
 
-
-**### Watch**
-
-**!\[Watch](renders/watch.png)**
-
-
-
-**### Mirror Reflection**
-
-**!\[Mirror Reflection](renders/mirror\_reflection.jpg)**
-
-
-
-**### Coffee Mug**
-
-**!\[Coffee Mug](renders/coffee\_mug.png)**
-
-
-
-**### Earth Surface**
-
-**!\[Earth Surface](renders/earth\_surface.png)**
-
-
-
-**### Cosmic Nebula**
-
-**!\[Cosmic Nebula](renders/cosmic\_nebula.png)**
-
-
-
-**### Perfume Mockup**
-
-**!\[Perfume Mockup](renders/perfume\_mockup.png)**
-
-
-
-**### Glowing Logo**
-
-**!\[Glowing Logo](renders/glowing\_logo.png)**
-
-
-
-**### Cozy Bed**
-
-**!\[Cozy Bed](renders/cozy\_bed.jpg)**
-
-
-
-**## Tools Used**
-
-
-
-**- Blender**
-
-**- 3D Modeling**
-
-**- Materials and Texturing**
-
-**- Lighting**
-
-**- Rendering**
-
-**- Product Visualization**
-
-**- Environment Design**
-
-
-
-**## Author**
-
-
-
-**Md. Mahi**
-
+Md. Mahi
